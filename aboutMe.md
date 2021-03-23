@@ -1,4 +1,15 @@
-# Philip's *Markdown* Page!
+# Hey y'all, I am Philip Mann.
+
+## I have been driving trucks over the road for the last 7 years. I have driven in 43 of the 50 states and 4 of the 5 major provinces in Canada during my time on the road. I have also had the pleasure of backpacking Germany and Thailand the year before covid. I have met a lot of interesting and unique people on my travels and never fail to make friends. 
+
+## My main goal is to get outside my comfort zone, learn new skills, and be a successful developer.
+
+### What do I do in my sparetime?
+
+- I really enjoy cooking and love making everything from scratch. My specialty is smash burgers and breakfast tacos.
+- If you couldn't tell already I really enjoy traveling and roadtrips. For work or for fun, I enjoy it all the time. 
+- I love spending time with my girlfriend Taylor and our dog [**Ozzy**](https://imgur.com/xynMC6v).
+- And I really love being a Funcle (a fun uncle). I have 1 Nephew and 3 Nieces and enjoy picking on them as much as possible. 
 
 ### My Top 5 Favoritest *Movies* In No Particular Order:
 
@@ -17,3 +28,10 @@
 
 **Physically:** Webster, Texas.
 **Mentally:** *San Antonio*, Texas
+
+### Do I Have Any *Pets*?
+Yes! His name is Ozzy and he is adorable!
+
+
+
+Find me on [Github](https://github.com/Philip-Mann)
